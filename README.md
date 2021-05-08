@@ -8,7 +8,7 @@ Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamam
 
 Parola en az 6 karakterden oluşmalıdır.
 
-E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)
+E-posta alanı e-posta formatında olmalıdır. (Regex ile yapıldı)
 
 E-Posta daha önce kullanılmamış olmalıdır.
 
@@ -22,7 +22,7 @@ Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 
-İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırıldı.)
 
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
