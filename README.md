@@ -1,3 +1,4 @@
+#Sistem gereksinimleri Java mimari katmanına uygun gelişim aşamasındadır.
 
 Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
@@ -33,4 +34,4 @@ E-posta ve parola zorunludur
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 
-#Sistem gereksinimleri Java mimari katmanına uygun gelişim aşamasındadır.
+
